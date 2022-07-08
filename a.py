@@ -3,17 +3,14 @@ import numpy as np
 import pandas as pd
 #Librabries to import
 import pandas as pd 
-import pathlib
-import os
-from pathlib import Path
-from pathlib import PurePath
+
 import numpy as np
-import plotly.io as pio
+
 import plotly.graph_objs as go
-import statistics
+
 import plotly.express as px
 import random
-import matplotlib.pyplot as plt
+
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
