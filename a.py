@@ -534,7 +534,7 @@ if (Supply == '10' and Demand == '10'):
     # Assuming increase of next ten years
     supply_increase_demand = 1.20 # 10% increase
     supply_increase_supply = 1.10 # 9% increa
-    year_range =  list(range(2022, 2030))
+    year_range =  list(range(2022, 2033))
 
     # calculated mean and stds of demand and supply data
     ## Data import from excel to dataframe 
