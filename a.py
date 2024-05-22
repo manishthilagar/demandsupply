@@ -1333,7 +1333,7 @@ if (Supply == '15' and Demand == '5'):
     
     st.plotly_chart(fig)
 if (Supply == '15' and Demand == '10'):
-    # Assuming increase of next ten years
+    # Assuming increase of next ten year
     supply_increase_demand = 1.15 # 10% increase
     supply_increase_supply = 1.15 # 9% increa
     year_range =  list(range(2022, 2030))
